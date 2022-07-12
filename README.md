@@ -1,5 +1,5 @@
 # captcha-solver
-Simple captcha solver in python (tensorflow)
+Simple 6obcy type captcha solver in python (tensorflow)
 
 
 ## Example
