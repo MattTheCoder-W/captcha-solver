@@ -2,6 +2,10 @@
 Simple captcha solver in python (tensorflow)
 
 
+## Example
+![](tests/example.gif)
+
+
 ## Requirements
 * Python 3
 * Required pip libraries (`requirements.txt`)
