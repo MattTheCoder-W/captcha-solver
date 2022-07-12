@@ -30,7 +30,7 @@ You have two options of using trained model:
 ## Training you own model
 If you want to create your own model you will need a dataset.
 
-### Creating youw own dataset
+### Creating your own dataset
 First you can check how my dataset structure looks in `dataset` catalog. Just unzip it, look around and copy the structure.
 
 Follow these steps to generate your own dataset:
