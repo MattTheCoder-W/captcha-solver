@@ -6,6 +6,12 @@ Simple 6obcy type captcha solver in python (tensorflow)
 ![](tests/example.gif)
 
 
+### WARNING: This script only works with captchas in this format:
+![](tests/testing.png)
+
+Source: https://6obcy.org
+
+
 ## Requirements
 * Python 3
 * Required pip libraries (`requirements.txt`)
