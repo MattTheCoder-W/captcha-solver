@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tensorflow
+selenium
+urllib
+argparse
